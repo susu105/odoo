@@ -1,0 +1,7 @@
+[options]
+admin_passwd = admin_passwd
+db_host = 0.0.0.0
+db_port = 5432
+db_user = odoo
+db_password = odoo
+db_name = odoo
